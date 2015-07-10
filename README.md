@@ -16,3 +16,5 @@ npm install
 
 To run local server, run
 `gulp`
+
+Throttle speed to 3G (1Mbps) [using developer tools](http://stackoverflow.com/a/19734174/1501871)
