@@ -1,0 +1,6 @@
+body {
+    background: url('/images/doctor.png');
+    background-size: cover;
+    overflow: hidden;
+}
+

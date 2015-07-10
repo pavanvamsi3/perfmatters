@@ -1,0 +1,28 @@
+.logo {
+    height: 30px;
+    margin: 20px 40px 0;
+}
+.tagline {
+    font-size: 50px;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.search {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+}
+.search input {
+    font-size: 24px;
+    padding: 10px 20px;
+    min-height: 50px;
+    font-weight: 200;
+}
+.search-button {
+    height: 35px;
+    position: absolute;
+    right: 10px;
+    bottom: 7px;
+}
+
